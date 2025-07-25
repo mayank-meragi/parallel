@@ -50,7 +50,7 @@ devDependencies:
     specifier: ^9.28.0
     version: 9.31.0
   eslint-config-prettier:
-    specifier: ^10.1.5
+    specifier: ^10.1.8
     version: 10.1.8(eslint@9.31.0)
   eslint-plugin-import:
     specifier: ^2.31.0
